@@ -7,7 +7,8 @@ Andreas Petersen - cph-ap294 <br>
 <li> The assignment "Nested Routes" can be found in the subfolder "react_router_nested_routes" and can be found in the folder Man-30-03-2020</li>
 <li>The assignment "everything you need to know" can be found in the subfolder "react_router_everything_you_need_to_know" and can be found in the folder Man-30-03-2020 </li>
 </ol>
-- **Status for the assignment:**
+
+- **Staus for the assingment:**
 
 ## Tuesday - 31/03-2020
 The assignment "" can be found in the subfolder "" and can be found in the folder 
