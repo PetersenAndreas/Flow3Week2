@@ -1,0 +1,11 @@
+Did this logout involve the server?
+- No. The token were removed from our storage in our browser, not the server.
+- If you look in the console of the browser while login, there can be seen a fetch for get and post being made but there is no fetches being made, when the user is login out again.
+
+Is the token (if kept somewhere, still valid?)
+- Yes the token is still valid. A way to test this, is to use it to login via postman.
+- The token is still valid half an hour after it has been created.(This is checked using JWT.io). This is why we can use it to login in through postman.
+
+If your answer to the question above was yes, is this a problem?, and if, how could it have been solved?
+- It is a major problem. As I just demonstrated in the above question, this can be exploited by spoofing the connection and then the token can be used by the wrong person.
+- We can just use https, when we are loggin people in. This is still not 100% safe way to do it, but you cannot spoof the connection in the same way. One of the only ways to get the token, is if you infect the users machine or read it from over his shoulder.
