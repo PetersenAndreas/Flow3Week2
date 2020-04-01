@@ -23,7 +23,7 @@ Andreas Petersen - cph-ap294 <br>
 <li>My answers for exercise "h" can be found in same subfolder in the file "ANSWERS"</li>  
 </ol>
 
-- **Status for the assingment:** Made it all.
+- **Status for the assingment:** Made it all, except the yellow exercise "L" in the bottom.
 
 ## Thursday - 02/04-2020
 - **Status for the assingment:**
