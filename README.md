@@ -8,7 +8,7 @@ Andreas Petersen - cph-ap294 <br>
 <li>The assignment "everything you need to know" can be found in the subfolder "react_router_everything_you_need_to_know" and can be found in the folder Man-30-03-2020 </li>
 </ol>
 
-- **Staus for the assignment:** Everything has been made in all assingments, except 12 and 17 in "everything_you_need_to_know"
+- **Staus for the assignment:** Everything has been made in all assingments, except 12 and 17 in "everything_you_need_to_know"(both red)
 
 ## Tuesday - 31/03-2020
 <ol>
