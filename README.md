@@ -29,6 +29,7 @@ Andreas Petersen - cph-ap294 <br>
 - **Status for the assingment:**
 
 ## Friday - 03/04-2020
+No assignments due for this friday.
 - **Status for the assingment:** 
 
 ### #Struggles
