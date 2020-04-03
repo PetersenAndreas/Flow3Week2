@@ -26,9 +26,9 @@ Andreas Petersen - cph-ap294 <br>
 - **Status for the assingment:** Made it all, except the yellow exercise "L" in the bottom.
 
 ## Thursday - 02/04-2020
-1. The exercise "Getting Started" from assignment "Momondo like Servers" can be found in the subfolder "webscraber-momondo-demo-master" in the folder "Tor-02-04-2020.(Disclaimer, this is Lars's solution, that he told us to use)<br>
-2. The exercise "Rest/Json based example" from assignment "Momondo like Servers" can be found in the subfolder "jokeFetcher-momondo-demo-master" in the folder "Tor-02-04-2020.<br>
-3. Exercise 5 from "Rest/Json based example" from assignment "Momondo like Servers" can be found in the subfolder "jokes" and "mashUpSecurJokeScrape" in the folder "Tor-02-04-2020.<br>
+1. The exercise "Getting Started" from assignment "Momondo like Servers" can be found in the subfolder "webscraber-momondo-demo-master" in the folder Tor-02-04-2020.(Disclaimer, this is Lars's solution, that he told us to use and hand in)<br>
+2. The exercise "Rest/Json based example" from assignment "Momondo like Servers" can be found in the subfolder "jokeFetcher-momondo-demo-master" in the folder Tor-02-04-2020.<br>
+3. Exercise 5 from "Rest/Json based example" from assignment "Momondo like Servers" can be found in the subfolder "jokes" and "mashUpSecurJokeScrape" in the folder Tor-02-04-2020.<br>
 
 - **Status for the assingment:** Made it all except 5e, as this was optional, and the red exercises.
 
