@@ -30,7 +30,7 @@ Andreas Petersen - cph-ap294 <br>
 2. The exercise "Rest/Json based example" from assignment "Momondo like Servers" can be found in the subfolder "jokeFetcher-momondo-demo-master" in the folder "Tor-02-04-2020.<br>
 3. Exercise 5 from "Rest/Json based example" from assignment "Momondo like Servers" can be found in the subfolder "jokes" and "mashUpSecurJokeScrape" in the folder "Tor-02-04-2020.<br>
 
-- **Status for the assingment:** Made it all except the red part and 5e, as this was optional to execise 5.
+- **Status for the assingment:** Made it all except 5e, as this was optional, and the red exercises.
 
 ## Friday - 03/04-2020
 No assignments due for this friday.
