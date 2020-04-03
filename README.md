@@ -5,7 +5,7 @@ Andreas Petersen - cph-ap294 <br>
 <ol>
 <li> The assignment "Getting Started" can be found in the subfolder "react_router_getting_started" and can be found in the folder Man-30-03-2020</li>
 <li> The assignment "Nested Routes" can be found in the subfolder "react_router_nested_routes" and can be found in the folder Man-30-03-2020</li>
-<li>The assignment "everything you need to know" can be found in the subfolder "react_router_everything_you_need_to_know" and can be found in the folder Man-30-03-2020 </li>
+<li>The assignment "Everything you need to know" can be found in the subfolder "react_router_everything_you_need_to_know" and can be found in the folder Man-30-03-2020 </li>
 </ol>
 
 - **Staus for the assignment:** Everything has been made in all assingments, except 12 and 17 in "everything_you_need_to_know"(both red)
@@ -23,7 +23,7 @@ Andreas Petersen - cph-ap294 <br>
 <li>My answers for exercise "h" can be found in same subfolder in the file "ANSWERS"</li>  
 </ol>
 
-- **Status for the assingment:** Made it all, except the yellow exercise "L" in the bottom.
+- **Status for the assingment:** Made it all, except the yellow exercise "L" at the bottom.
 
 ## Thursday - 02/04-2020
 1. The exercise "Getting Started" from assignment "Momondo like Servers" can be found in the subfolder "webscraber-momondo-demo-master" in the folder Tor-02-04-2020.(Disclaimer, this is Lars's solution, that he told us to use and hand in)<br>
