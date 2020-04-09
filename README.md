@@ -19,7 +19,7 @@ Andreas Petersen - cph-ap294 <br>
 
 ## Wednesday - 01/04-2020
 <ol>
-<li>The assignment "Exercises Security (complete it)" can be found in the subfolder "tokens_and_authentication_with_react" and can be found in the folder Ons-01-04-2020</li>
+<li>The assignment "Exercises Security (complete it)" can be found in the subfolder "tokens_and_authentication_with_react" and can be found in the folder Ons-01-04-2020. <br>Be aware that this code uses the backend code from tuesday</li>
 <li>My answers for exercise "h" can be found in same subfolder in the file "ANSWERS"</li>  
 </ol>
 
